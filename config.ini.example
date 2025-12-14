@@ -1,0 +1,20 @@
+﻿[telegram]
+# Получите токен у @BotFather
+bot_token = ваш_токен_бота_здесь
+
+# Узнайте ваш chat_id у @userinfobot
+chat_id = ваш_chat_id_здесь
+
+[email]
+# Файл с email адресами по умолчанию
+default_file = data/emails.txt
+
+# Таймаут DNS запросов (секунды)
+timeout = 10
+
+[logging]
+# Уровень логирования: DEBUG, INFO, WARNING, ERROR
+level = INFO
+
+# Файл для логов
+file = email_validator.log

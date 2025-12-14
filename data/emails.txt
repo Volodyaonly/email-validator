@@ -1,0 +1,13 @@
+﻿john.doe@gmail.com
+jane.smith@yahoo.com
+info@company.com
+contact@business.org
+test@nonexistent-domain-12345.com
+invalid-email-address
+support@example.com
+sales@mail.ru
+admin@yandex.ru
+user@outlook.com
+alexander@yandex.ru
+test@test.com
+hello@world.org

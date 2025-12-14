@@ -1,0 +1,46 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+desktop.ini
+
+# Логи
+*.log
+
+# Временные файлы
+temp_*
+*.tmp
+
+# Конфигурация (не загружаем в GitHub!)
+config.ini
+.secrets
+.env
+
+# Файлы с данными (кроме примеров)
+data/*.db
+data/*.sqlite
+*.db
