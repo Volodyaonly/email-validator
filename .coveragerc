@@ -1,0 +1,20 @@
+﻿[run]
+source = src
+omit = 
+    */__pycache__/*
+    */test_*.py
+    */conftest.py
+
+[report]
+exclude_lines =
+    pragma: no cover
+    def __repr__
+    raise AssertionError
+    raise NotImplementedError
+    if __name__ == .__main__.:
+    if self.debug:
+    pass
+
+[html]
+directory = htmlcov
+title = Email Validator Coverage Report
